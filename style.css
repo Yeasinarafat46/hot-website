@@ -1,0 +1,14 @@
+.white-bg{
+    background-color:whitesmoke
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.buy-now-button{ 
+    background-image:linear-gradient(to bottom,#101010 0%,#000000 100%);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 25px;
+    cursor: pointer;
+}
